@@ -1,2 +1,6 @@
 This is File 3
+<<<<<<< HEAD
 Đây là FIle4
+=======
+Thay đổi nhầm
+>>>>>>> Alpha
