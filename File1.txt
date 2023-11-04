@@ -1,10 +1,5 @@
-This is FIle 1
-<<<<<<< HEAD
-Fix
 Đây là FIle 5
 Chỉnh sửa lần nữa
-THay đổi đôi chút từ Hotfix1
-=======
+
 Fix 
-Thay đổi nhầm
->>>>>>> Alpha
+Đã xử lý xung đột
